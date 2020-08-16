@@ -15,16 +15,16 @@
 
 <br />
 
-Hi, I'm Mehedi Hassan Piash, 5+ experienced mobile app developer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on android and react-native;
-- 🌱 I’m currently learning ktor; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: piash599@gmail.com;
+- 👨🏽‍💻 I’m currently working on android and react-native
+- 🌱 I’m currently learning ktor
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: piash599@gmail.com
 - 📝[Resume]()
 
 **Languages and Tools:**  
