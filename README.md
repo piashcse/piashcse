@@ -25,7 +25,7 @@ Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's
 - 🌱 I’m currently learning ktor
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1b2AUXt53xHHCv808oTkitmcLh5iPV9v6/view)
 
 **Languages and Tools:**  
 
