@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/piashcse/">
   <img align="left" alt="Piash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/piashcse/">
-  <img align="left" alt="Piash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://medium.com/@piashcse">
+  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
