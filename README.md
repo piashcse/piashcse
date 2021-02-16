@@ -21,7 +21,7 @@ Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on react-native and android
+- 👨🏽‍💻 I’m currently working on android and react-native
 - 🌱 I’m currently learning ktor
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
