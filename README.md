@@ -17,7 +17,7 @@
 
 Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF"  width="450px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF"  width="450px" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -40,6 +40,6 @@ Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 </bre>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&hide=html" alt="piashcse" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true" alt="piashcse" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&hide=html" alt="piashcse" /></p>
