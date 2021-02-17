@@ -39,7 +39,7 @@ Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+</bre>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&hide=html" alt="piashcse" /></p>
-
 
 ![Piash's github stats](https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true&hide_border=true)
