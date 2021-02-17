@@ -42,4 +42,4 @@ Hi, I'm Mehedi Hassan Piash, 5+ years experienced mobile app developer. Beside's
 </bre>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&hide=html" alt="piashcse" /></p>
 
-![Piash's github stats](https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true" alt="piashcse" /></p>
