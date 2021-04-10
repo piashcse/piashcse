@@ -11,7 +11,7 @@
   <img align="left" alt="Piash's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://piashcse.blogspot.com/">
-  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icons/blogger.svg" />
+  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
