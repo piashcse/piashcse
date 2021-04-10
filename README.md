@@ -5,10 +5,13 @@
   <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/piashcse/">
-  <img align="left" alt="Piash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Piash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@piashcse">
-  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Piash's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://piashcse.blogspot.com/">
+  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icons/blogger.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
