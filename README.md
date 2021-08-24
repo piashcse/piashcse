@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm Mehedi Hassan Piash, 6 years experienced mobile app developer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Mehedi Hassan Piash, 6 years of experienced mobile app developer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF"  width="450px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
