@@ -25,7 +25,7 @@ Hi, I'm Mehedi Hassan Piash, 6 years of experienced mobile app developer. Beside
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on android and react-native
-- 🌱 I’m currently learning ktor
+- 🌱 I’m currently learning jetpack compose and ktor
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1b2AUXt53xHHCv808oTkitmcLh5iPV9v6/view)
