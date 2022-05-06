@@ -1,6 +1,4 @@
-### Hey 👋🏽, I'm [Piash!](https://piashcse.github.io/) 
-
-<br/>
+#### Hey 👋🏽, I'm [Piash!](https://piashcse.github.io/) 
 <a href="https://twitter.com/piashcse">
   <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,7 +16,7 @@
 
 <br />
 
-Hi, I'm Mehedi Hassan Piash, 6.5 years of experienced mobile app developer. Beside's programming, I love eating food and traveling.
+Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 6.5 years of experienced mobile app developer. Beside's programming, I love eating food and traveling.
 
   <img align="right" alt="GIF"  width="450px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
