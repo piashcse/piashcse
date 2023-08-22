@@ -26,6 +26,7 @@ Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 7.5 years of experie
 - 🌱 I’m currently learning [jetpack compose](https://developer.android.com/jetpack/compose) and [ktor](https://ktor.io/docs/welcome.html)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
+- ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
 - 📝[Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 - 🤵[Portfolio](https://piashcse.github.io/)
 
