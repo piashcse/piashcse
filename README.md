@@ -27,8 +27,8 @@ Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 7.5 years of experie
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
-- 📝[Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
-- 🤵[Portfolio](https://piashcse.github.io/)
+- 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
+- 🤵 [Portfolio](https://piashcse.github.io/)
 
 **Languages and Tools:**  
 
