@@ -12,18 +12,18 @@
   <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
+![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
 
 <br />
 
 Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 7.5 years of experience mobile app developer. Besides programming, I love eating food, traveling and playing 🎹.
 
-  <img align="right" alt="GIF"  width="450px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF"  width="450px" height="220px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs) and [react-native](https://reactnative.dev/)
-- 🌱 I’m currently learning [jetpack compose](https://developer.android.com/jetpack/compose) and [ktor](https://ktor.io/docs/welcome.html)
+- 🌱 I’m currently learning [jetpack compose](https://developer.android.com/jetpack/compose), [Compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/), [ktor](https://ktor.io/docs/welcome.html)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
