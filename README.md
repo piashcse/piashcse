@@ -18,7 +18,7 @@
 
 Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 7.5 years of experience mobile app developer. Besides programming, I love eating food, traveling and playing 🎹.
 
-  <img align="right" alt="GIF"  width="400px" height="220px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF"  width="380px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
