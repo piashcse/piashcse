@@ -22,8 +22,8 @@ Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 8 years of experienc
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose](https://developer.android.com/jetpack/compose) and [react-native](https://reactnative.dev/)
-- 🌱 I’m currently learning [Compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [ktor](https://ktor.io/docs/welcome.html) backend
+- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [react-native](https://reactnative.dev/)
+- 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
 - 💬 Ask me about android and kotlin, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
