@@ -1,4 +1,9 @@
-#### Hey 👋🏽, I'm [Piash!](https://piashcse.github.io/) 
+#### Hey 👋🏽, I'm [Mehedi Hassan Piash!](https://piashcse.github.io/) 
+
+I’m a professional mobile app developer with 8.5 years of experience crafting seamless and innovative solutions. Beyond code, I’m passionate about exploring new places, savoring great food, and playing the 🎹.
+
+<img align="right" alt="GIF"  width="380px" height="280px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <a href="https://twitter.com/piashcse">
   <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,12 +19,6 @@
 
 ![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
 
-<br />
-
-Hi, I'm [Mehedi Hassan Piash](https://piashcse.github.io/), 8.5 years of experience mobile app developer. Besides programming, I love eating food, traveling and playing 🎹.
-
-  <img align="right" alt="GIF"  width="380px" height="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [react-native](https://reactnative.dev/)
