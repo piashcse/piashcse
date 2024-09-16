@@ -23,7 +23,7 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [react-native](https://reactnative.dev/)
 - 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
-- 💬 Ask me about android and kotlin, I am happy to help
+- 💬 Ask me about Android and kotlin, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
@@ -42,10 +42,12 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code> 
 
 </bre>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&theme=light&hide_langs_below=1" /></p>
