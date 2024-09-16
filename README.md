@@ -28,7 +28,7 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 - 🤵 [Portfolio](https://piashcse.github.io/)
-
+</bre>
 </bre>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&theme=light&hide_langs_below=1" /></p>
 </bre>
