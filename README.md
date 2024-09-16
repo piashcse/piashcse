@@ -29,6 +29,12 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 - 🤵 [Portfolio](https://piashcse.github.io/)
 
+</bre>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&theme=light&hide_langs_below=1" /></p>
+</bre>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true" alt="piashcse" /></p>
+</bre>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></code>
@@ -49,8 +55,3 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code> 
-
-</bre>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&theme=light&hide_langs_below=1" /></p>
-</bre>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true" alt="piashcse" /></p>
