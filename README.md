@@ -23,9 +23,10 @@ I’m a professional mobile app developer with 8.5 years of experience crafting 
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) and [react-native](https://reactnative.dev/)
 - 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
-- 💬 Ask me about Android and kotlin, I am happy to help
+- 💬 Ask me about Android and Kotlin, I am happy to help
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
+- ⚡ Fun fact: Happy to contribute to open-source project
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 - 🤵 [Portfolio](https://piashcse.github.io/)
 
