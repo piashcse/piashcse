@@ -1,6 +1,6 @@
 #### Hey 👋🏽, I'm [Mehedi Hassan Piash!](https://piashcse.github.io/) 
 
-I’m a professional mobile app developer with 8.5 years of experience crafting seamless and innovative solutions. Beyond code, I’m passionate about exploring new places, savoring great food, and playing the 🎹.
+I’m a professional mobile app developer with 9 years of experience crafting seamless and innovative solutions. Beyond code, I’m passionate about exploring new places, savoring great food, and playing the 🎹.
 
 <img align="right" alt="GIF"  width="380px" height="280px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
