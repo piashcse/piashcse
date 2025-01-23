@@ -51,6 +51,5 @@ I’m a professional mobile app developer with 9 years of experience crafting se
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </bre>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&theme=light&hide_langs_below=1" /></p>
-</bre>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true" alt="piashcse" /></p>
+| <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piashcse&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Piash's github stats" /></a> | <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
