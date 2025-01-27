@@ -2,7 +2,7 @@
 
 I’m a professional mobile app developer with 9 years of experience crafting seamless and innovative solutions. Beyond code, I’m passionate about exploring new places, savoring great food, and playing the 🎹.
 
-<img align="right" alt="GIF"  width="380px" height="280px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF"  width="380px" height="280px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
 <a href="https://twitter.com/piashcse">
   <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
