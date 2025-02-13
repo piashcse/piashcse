@@ -27,8 +27,8 @@ I’m a professional mobile app developer with 9 years of experience crafting se
 - 📫 How to reach me: piash599@gmail.com
 - ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/)
 - ⚡ Fun fact: Happy to contribute to the open-source project
-- 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 - 🤵 [Portfolio](https://piashcse.github.io/)
+- 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 
 </bre>
 
