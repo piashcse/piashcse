@@ -1,6 +1,6 @@
 #### Hey 👋🏽, I'm [Mehedi Hassan Piash!](https://piashcse.github.io/) 
 
-I’m a professional mobile app developer with 9+ years of experience building scalable, high-performance applications focused on clean architecture and exceptional user experience. Beyond code,  I’m a passionate technical blogger and writer, committed to mentoring others by sharing knowledge and playing the 🎹.
+I’m a professional mobile app developer with 9+ years of experience building scalable, high-performance applications focused on clean architecture and exceptional user experience. Beyond code,  I’m a passionate technical writer, committed to mentoring others by sharing knowledge and playing the 🎹.
 
 <img align="right" alt="GIF"  width="380px" height="280px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
