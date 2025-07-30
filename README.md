@@ -22,7 +22,7 @@ I’m a professional mobile app developer with 9+ years of experience building s
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/), [react-native](https://reactnative.dev/) and [expo](https://github.com/expo/expo)
-- 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
+- 🌱 I’m currently focusing on learning [ktor](https://ktor.io/docs/welcome.html) backend
 - 💬 Ask me about Mobile App Development, I am happy to help
 - ⚡ Fun fact: Happy to contribute to the open-source project
 - 📫 How to reach me: piash599@gmail.com
