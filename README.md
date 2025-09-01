@@ -12,7 +12,6 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
-#### Hey 👋🏽, I'm [Mehedi Hassan Piash!](https://piashcse.github.io/)  
 
 I’m a professional mobile app developer with 10 years of experience building scalable, high-performance applications focused on clean architecture and exceptional user experience. Beyond code,  I’m a passionate technical writer, committed to mentoring others by sharing knowledge.
 
