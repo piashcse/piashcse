@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
 
-I’m a Tech Lead & Professional Mobile App Developer with 10 years of experience building scalable, high-performance mobile applications using Android, React Native, and Kotlin Multiplatform. I specialize in clean architecture, system design, performance optimization, and maintainable codebases, delivering reliable, user-centric solutions. Beyond coding, I’m a technical writer and mentor, passionate about sharing knowledge and improving engineering practices..
+I’m a Professional Mobile App Developer with 10 years of experience building scalable, high-performance mobile applications using Android, React Native, and Kotlin Multiplatform. I specialize in clean architecture, system design, performance optimization, and maintainable codebases, delivering reliable, user-centric solutions. Beyond coding, I’m a technical writer and mentor, passionate about sharing knowledge and improving engineering practices..
 
 <img align="right" alt="GIF"  width="340px" height="270px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
