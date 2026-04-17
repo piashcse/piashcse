@@ -13,18 +13,20 @@
 
 ![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
 
-I’m a Professional Mobile App Developer with 10 years of experience building scalable, high-performance mobile applications using **Android**, **React Native**, and **Kotlin Multiplatform**. I specialize in clean architecture, system design, performance optimization, and maintainable codebases, delivering reliable, user-centric solutions. Beyond coding, I’m a technical writer and mentor, passionate about sharing knowledge and improving engineering practices.
+I’m a **Staff Software Engineer** with 10+ years of experience leading teams and building scalable, high-performance cross-platform applications using **Android**, **React Native**, and **Kotlin Multiplatform**. I drive architecture decisions, system design, and engineering best practices, ensuring performance, scalability, and long-term maintainability. 
+
+Beyond development, I **mentor engineers**, **review architecture**, and **improve development processes**, helping teams ship better software faster.
 
 <img align="right" alt="GIF"  width="340px" height="270px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/), [react-native](https://reactnative.dev/) and [expo](https://github.com/expo/expo)
-- 🌱 I’m currently focused on learning [ktor](https://ktor.io/docs/welcome.html) backend
-- 💬 Ask me about Mobile App Development, I am happy to help
-- ⚡ Fun fact: Happy to contribute to the open-source project
+- 👨🏽‍💻 Leading development of cross-platform applications using [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/), [react-native](https://reactnative.dev/) and [expo](https://github.com/expo/expo)
+- 🌱 Currently expanding backend expertise with [ktor](https://ktor.io/docs/welcome.html) and full-stack architecture
+- 💬 Open to discussions on mobile architecture, performance optimization, and scalable systems
+- ⚡ Fun fact: Active open-source contributor, building developer-focused projects
+- ✍️ Sharing knowledge through writing [www.piashcse.blogspot.com](http://piashcse.blogspot.com/), [medium](https://piashcse.medium.com/)
 - 📫 How to reach me: piash599@gmail.com
-- ✍️ Write blogs on [www.piashcse.blogspot.com](http://piashcse.blogspot.com/), [medium](https://piashcse.medium.com/)
 - 🤵 [Portfolio](https://piashcse.github.io/)
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
 
