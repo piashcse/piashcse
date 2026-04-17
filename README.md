@@ -23,8 +23,8 @@ Beyond development, I **mentor engineers**, **review architecture**, and **impro
 
 - 👨🏽‍💻 Leading development of cross-platform applications using [android](https://developer.android.com/docs), [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/), [react-native](https://reactnative.dev/) and [expo](https://github.com/expo/expo)
 - 🌱 Currently expanding backend expertise with [ktor](https://ktor.io/docs/welcome.html) and full-stack architecture
-- 💬 Open to discussions on mobile architecture, performance optimization, and scalable systems
-- ⚡ Fun fact: Active open-source contributor, building developer-focused projects
+- 💬 Open to discussions on architecture, performance, and scalable processes
+- ⚡ Active open-source contributor, building developer-focused projects
 - ✍️ Sharing knowledge through writing [www.piashcse.blogspot.com](http://piashcse.blogspot.com/), [medium](https://piashcse.medium.com/)
 - 📫 How to reach me: piash599@gmail.com
 - 🤵 [Portfolio](https://piashcse.github.io/)
