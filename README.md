@@ -25,7 +25,7 @@ Beyond development, I **mentor engineers**, **review architecture**, and **impro
 - 🌱 Currently expanding backend skill with [ktor](https://ktor.io/docs/welcome.html) and full-stack architecture
 - 💬 Open to discussions on architecture, performance, and scalable processes
 - ⚡ Active open-source contributor, building developer-focused projects
-- ✍️ Sharing knowledge through writing [www.piashcse.blogspot.com](http://piashcse.blogspot.com/), [medium](https://piashcse.medium.com/)
+- ✍️ Sharing knowledge through writing [piashcse.blogspot](http://piashcse.blogspot.com/), [medium](https://piashcse.medium.com/)
 - 📫 How to reach me: piash599@gmail.com
 - 🤵 [Portfolio](https://piashcse.github.io/)
 - 📝 [Resume](https://drive.google.com/file/d/1X-YVE9_9Kl0Ad1_HwNFS55WTlOiBI5ip/view?usp=sharing)
